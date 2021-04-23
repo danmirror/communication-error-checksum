@@ -2,6 +2,7 @@
 > basic communication and error checksum using python
 
 ## required
+- arduino bit
 - parity
 - crc
 
