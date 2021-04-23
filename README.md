@@ -1,5 +1,5 @@
 # communication-error-checksum
-> basic communication and error checksum using python
+> basic communication and error checksum 
 
 ## required
 - arduino bit
