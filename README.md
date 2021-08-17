@@ -1,5 +1,5 @@
-# communication-error-checksum
-> basic communication and error checksum 
+# communication 
+> basic communication 
 
 ## required
 - arduino bit
